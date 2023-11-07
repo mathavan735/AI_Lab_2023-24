@@ -62,5 +62,6 @@ print(f"Predicted color for RGB {new_rgb_value}: {predicted_color}")
 
 
 ### Output:
+![image](https://github.com/mathavan735/king/assets/129484178/b999a2b1-8c7a-4c94-8d16-6b0e4c7e047e)
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
